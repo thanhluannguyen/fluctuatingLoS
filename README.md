@@ -8,8 +8,7 @@ Notably, for a positive integer $k$, the fLoS fading distribution simplifies to 
 Numerical results are presented to show the impact of the fading parameters and verify the accuracy of the proposed approximation. Moreover, we illustrate an application of the proposed fLoS fading distribution for characterizing wireless systems affected by channel aging.
 
 ## Paper
-- [Preprint on arXiv]([https://arxiv.org/abs/2201.04784](https://arxiv.org/abs/2408.00575))
-- [IEEExplore]()
+- [Preprint on arXiv](https://arxiv.org/abs/2408.00575)
 
 ## Bibtex
 If you find that our research is interesting and our code is helpful, please cite our paper. Thank you!
